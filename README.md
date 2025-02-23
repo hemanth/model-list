@@ -1,6 +1,10 @@
 # Model List
 > Exploring and comparing AI language models across different providers.
 
+[TRY IT](https://h3manth.com/ai/models/)
+![image](https://github.com/user-attachments/assets/4bcadcd9-f1d3-4124-87a2-35829eb49547)
+
+
 ## Features
 
 - 📊 Interactive data visualization with Chart.js
